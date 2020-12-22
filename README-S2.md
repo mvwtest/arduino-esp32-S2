@@ -34,3 +34,9 @@ Now you can find the ESP32s2 Dev Kit implementation on your Arduino IDE:
 thanks 4 ：
 
 https://www.mischianti.org/2020/12/01/esp32-s2-pinout-specs-and-arduino-ide-configuration-1/
+
+
+https://github.com/espressif/arduino-esp32/tree/esp32s2
+
+
+https://github.com/espressif/arduino-esp32
