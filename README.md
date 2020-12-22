@@ -1,5 +1,12 @@
-# Arduino core for the ESP32-S2
+4  ESP32-S2
+
+https://github.com/mvwtest/arduino-esp32-S2/blob/esp32s2/README-S2.md
+
+
+# Arduino core for the ESP32
 [![Build Status](https://travis-ci.org/espressif/arduino-esp32.svg?branch=master)](https://travis-ci.org/espressif/arduino-esp32) ![](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg)
+
+
 
 ### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
